@@ -16,7 +16,7 @@ const initialContactsList = [
   {
     id: uuidv4(),
     name: "Pavan",
-    mobileNo: 8888866666,
+    mobileNo: 7799839295,
     isFavorite: true,
   },
   {
