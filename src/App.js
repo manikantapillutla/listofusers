@@ -9,19 +9,19 @@ import "./App.css";
 const initialContactsList = [
   {
     id: uuidv4(),
-    name: "Ram",
+    name: "Manikanta",
     mobileNo: 9515619042,
     isFavorite: false,
   },
   {
     id: uuidv4(),
-    name: "Pavan",
+    name: "Srinivasa Rao",
     mobileNo: 7799839295,
     isFavorite: true,
   },
   {
     id: uuidv4(),
-    name: "Nikhil",
+    name: "Anil Kumar",
     mobileNo: 9966578416,
     isFavorite: false,
   },
